@@ -31,6 +31,6 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://news-letter-sign-up-with-success-message.vercel.app/)
+- Solution URL: (https://www.frontendmentor.io/challenges/newsletter-signup-form-with-success-message-3FC1AZbNrv/hub?share=true)
+- Live Site URL:(https://news-letter-sign-up-with-success-message.vercel.app/)
 
