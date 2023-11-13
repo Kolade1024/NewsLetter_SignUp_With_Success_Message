@@ -19,6 +19,7 @@ body {
   background-color: white;
   min-height: 100vh;
   width: 100%;
+  flex-direction: column;
 }
 
 .illustration {
@@ -154,7 +155,6 @@ form button:hover{
   justify-content: flex-start;
   background-color: white;
   display: none;
- 
   flex-direction: column;
   gap: 1.5rem;
 
